@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devsuperior</groupId>
-	<artifactId>devvendas</artifactId>
+	<artifactId>dsvendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>devvendas</name>
 	<description>Projeto desenvolvido Spring React da DevSuperior</description>
