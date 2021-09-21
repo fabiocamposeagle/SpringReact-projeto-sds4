@@ -57,15 +57,22 @@ git commit -m "Project created"
 git remote add origin <seu endereço>
 
 git push -u origin main
+    
 Passo 2: "limpar" o projeto ReactJS
 Limpar projeto ReactJS / tsconfig.json
 Arquivo _redirects
+    
 /* /index.html 200
+    
 COMMIT: Project clean
+    
 Passo 3: adicionar Bootstrap e CSS ao projeto
+    
 Bootstrap
 yarn add bootstrap
+    
 (index.tsx) import 'bootstrap/dist/css/bootstrap.css';
+    
 Assets e CSS
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 :root {
